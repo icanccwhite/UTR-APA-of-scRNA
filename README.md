@@ -1,1 +1,1 @@
-# polyA-of-scRNA
+# polyA-of-subEC(scRNA)
